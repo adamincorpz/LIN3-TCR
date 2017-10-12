@@ -98,7 +98,7 @@ Amid = kk.getProfile().mid
 Bmid = ki.getProfile().mid
 Cmid = kc.getProfile().mid
 Bots = [mid,Amid,Bmid,Cmid,]
-admin = ["udee626454be8e869860bbcbbdb1139d"]
+admin = ["u08ef801f7cdf1bb7588ace0b764be826"]
 staff = [""]
 adminMID = [""]
 
@@ -139,7 +139,7 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"AoF!!bot",
+    "cName":"꧁ƐﾚﾚΔ➫८Ħӄ➳ʗʀεԃɨ੮꧂ه",
     "cNames":"",
     "blacklist":{},
     "wblacklist":False,
